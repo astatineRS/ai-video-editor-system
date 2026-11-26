@@ -1,0 +1,1 @@
+Version [N] has these problems: [e.g. hook is slow, captions sit too low, music too loud]. Fix only these. Keep everything else unchanged. Then add a one-line rule to CLAUDE.md so this mistake does not repeat, and log version [N+1] in BRIEF.md.

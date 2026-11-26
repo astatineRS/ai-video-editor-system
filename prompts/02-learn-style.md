@@ -1,0 +1,1 @@
+Run the video-style-learner skill on [MY-BRAND]/References/. Measure every reference, write the result into [MY-BRAND]/STYLE.md, then show me a 5-line summary (hook, pace, captions, look, audio). Do not change the reference videos. Ask me what to correct.
